@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eventplanner.iml" filepath="$PROJECT_DIR$/eventplanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/eventplanner_android.iml" filepath="$PROJECT_DIR$/android/eventplanner_android.iml" />
+    </modules>
+  </component>
+</project>

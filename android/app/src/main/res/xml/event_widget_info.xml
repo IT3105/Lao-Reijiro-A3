@@ -1,0 +1,9 @@
+<!-- android/app/src/main/res/xml/event_widget_info.xml -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="250dp"
+    android:minHeight="100dp"
+    android:updatePeriodMillis="1800000" <!-- Update every 30 minutes -->
+    android:initialLayout="@layout/event_widget"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen">
+</appwidget-provider>
